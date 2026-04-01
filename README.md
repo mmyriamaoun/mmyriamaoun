@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Myriam Aoun  
+# Hi, I'm Myriam Aoun  
 
 Master's student in Big Data & AI at **Sorbonne Paris Nord**  
 Based in Paris, France  

@@ -6,7 +6,7 @@ Passionate about Data, Actuarial Science & Risk Analysis
 
 ---
 
-## 🚀 About Me  
+##  About Me  
 
 - Background in **Actuarial Sciences (GPA: 3.85, Dean’s List)**  
 - Strong interest in **data analysis, insurance, and risk modeling**  
@@ -15,7 +15,7 @@ Passionate about Data, Actuarial Science & Risk Analysis
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 
 ### Programming & Data  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  

@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Bonjour, nous sommes une équipe Data
 
-<!--
-**mmyriamaoun/mmyriamaoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 À propos de nous
+Nous sommes une équipe d'étudiantes passionnées par la *data, le machine learning et l'analyse économique*.
 
-Here are some ideas to get you started:
+🎯 Objectif : concevoir des solutions basées sur les données pour résoudre des problématiques réelles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👥 Équipe
+- *Hakimi Tasnime*
+- *Aoun Myriam*
+
+---
+
+## 🚀 Compétences
+- Python 🐍
+- Analyse de données 📊
+- Machine Learning 🤖
+- Statistiques & Économétrie 📈
+- Git & GitHub 🌐
+
+---
+
+## 📂 Projets
+- 🔹 Projet de classification Machine Learning  
+- 🔹 Analyse de données financières  
+- 🔹 Développement d’un pipeline data  
+
+---
+
+## 🛠️ Technologies utilisées
+- Python (pandas, numpy, scikit-learn)
+- Matplotlib
+- PyTorch
+- Git / GitHub
+
+---
+## ✨ Objectif actuel
+📌 Développer des projets concrets en *Big Data & Intelligence Artificielle*  
+📌 Acquérir une expérience professionnelle en *Data Science / Business Intelligence*
+
+---
+
+⭐ Merci de visiter notre profil !

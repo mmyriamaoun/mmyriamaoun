@@ -97,6 +97,7 @@ Piano • Travel • Dancing
 
 m.myriam.aoun@gmail.com  
 Paris, France  
++33 06 74 89 08 70
 
 ---
  *Feel free to check my projects and connect with me!*  
